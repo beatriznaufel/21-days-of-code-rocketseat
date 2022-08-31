@@ -1,0 +1,56 @@
+* {
+  font-family: 'Fira Code', monospace;
+}
+
+body {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  background: #181824;
+  letter-spacing: -1px;
+}
+
+h1 {
+  border-right: solid 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 2.7rem;
+  color: #818cf8; 
+}
+
+span {
+  text-shadow: 0px 0px 10px;
+}
+
+/* Animation */
+h1 {
+  animation: animated-text 4s steps(29, end) 1s 1 normal both,
+    animated-cursor 600ms steps(29, end) infinite;
+}
+
+/* text animation */
+
+@keyframes animated-text {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 470px;
+  }
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor {
+  from {
+    border-right-color: #312e81;
+  }
+
+  to {
+    border-right-color: transparent;
+  }
+}
