@@ -17,8 +17,15 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [ ] Dia 14: Criar um form de quizzes
 
 
-## Dia 02: "Hello World"
+## Dia 02: "Hello World" customizado
 
 <p align="center">
  <img src="./hello-world/dia-02-screenshot.png">
+</p>
+
+
+## Dia 03: Botão animado
+
+<p align="center">
+ <img src="./button/dia-03-screenshot.png">
 </p>
