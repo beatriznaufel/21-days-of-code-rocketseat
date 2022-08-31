@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #181824;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+      -webkit-user-select: none;
+       -khtml-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+          -webkit-tap-highlight-color: transparent;
+  }
+
+button {
+	width: 75px;
+	height: 75px;
+	cursor: pointer;
+	background-color: #6366f1;
+	background-image: linear-gradient(315deg, #6366f1 0%, #b58ecc 74%);
+	border: none;
+	border-radius: 50%;
+	transition: 200ms;
+}
+
+button svg {
+	fill: white;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+button:before {
+	content: 'Back to Top';
+	position: absolute;
+	transform: translateX(-50%) translateY(45px);
+	font-size: 15px;
+	transition: 200ms;
+	color: transparent;
+	font-weight: bold;
+}
+
+button:hover {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+	width: 80px;
+	height: 80px;
+}
+
+button:hover::before {
+	color: #fff;
+}
+
+button:hover svg {
+		animation: bounce 2s infinite linear;
+}
+
+@keyframes bounce {
+	0% {transform: translateX(-50%) translateY(-50%)}
+	25% {transform: translateX(-50%) translateY(-65%)}
+	50% {transform: translateX(-50%) translateY(-50%)}
+	75% {transform: translateX(-50%) translateY(-35%)}
+	100% {transform: translateX(-50%) translateY(-50%)}
+}
+
+button:focus {
+	outline: none;
+}
