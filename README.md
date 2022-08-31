@@ -3,7 +3,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 - [x] Dia 01: Criar um repositório
 - [x] Dia 02: Criar um Hello World customizado
-- [ ] Dia 03: Criar um botão animado
+- [x] Dia 03: Criar um botão animado
 - [ ] Dia 04: Criar uma calculadora
 - [ ] Dia 05: Desenvolver uma página com erro 404
 - [ ] Dia 06: Criar um card com efeito glassmorphism
@@ -17,8 +17,15 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [ ] Dia 14: Criar um form de quizzes
 
 
-## Dia 02: "Hello World"
+## Dia 02: "Hello World" customizado
 
 <p align="center">
  <img src="./hello-world/dia-02-screenshot.png">
+</p>
+
+
+## Dia 03: Botão animado
+
+<p align="center">
+ <img src="./button/dia-03-screenshot.png">
 </p>
