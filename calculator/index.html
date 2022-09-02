@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&family=Poppins:wght@200;300;400&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="calculator">
+        <h1>Calculator</h1>
+        <p id="result"></p>
+        <table>
+            <tr>
+                <td><button onclick="clean()">C</button></td>
+                <td><button onclick="back()"><</button>
+                </td>
+                <td><button onclick="display('/')">/</button></td>
+                <td><button onclick="display('*')">X</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="display('7')">7</button></td>
+                <td><button onclick="display('8')">8</button></td>
+                <td><button onclick="display('9')">9</button></td>
+                <td><button onclick="display('-')">-</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="display('4')">4</button></td>
+                <td><button onclick="display('5')">5</button></td>
+                <td><button onclick="display('6')">6</button></td>
+                <td><button onclick="display('+')">+</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="display('1')">1</button></td>
+                <td><button onclick="display('2')">2</button></td>
+                <td><button onclick="display('3')">3</button></td>
+                <td rowspan="2"><button class="button1" onclick="calculate()">=</button></td>
+            </tr>
+            <tr>
+                <td colspan="2"><button class="button2" onclick="display('0')">0</button></td>
+                <td><button onclick="display('.')">.</button></td>
+            </tr>
+        </table>
+    </div>
+    <script>
+        function display(num) {
+            let number = document.getElementById('result').innerHTML;
+            document.getElementById('result').innerHTML = number + num;
+        }
+
+        function clean() {
+            document.getElementById('result').innerHTML = "";
+        }
+
+        function back() {
+            let result = document.getElementById('result').innerHTML;
+            document.getElementById('result').innerHTML = result.substring(0, result.length - 1);
+        }
+
+        function calculate() {
+            let result = document.getElementById('result').innerHTML;
+            if(result) {
+                document.getElementById('result').innerHTML= eval(result);
+            }
+        }
+    </script>
+</body>
+
+</html>

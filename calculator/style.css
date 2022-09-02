@@ -1,0 +1,57 @@
+* {
+    font-family: 'Fira Code', monospace;
+  }
+  
+  body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background: #181824;
+    letter-spacing: -1px;
+    color: white;
+  }
+
+  .calculator {
+    background-color: #181824;
+    border: 1px solid #818cf8;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+  }
+
+  #result {
+    width: 212px;
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    border-radius: 8px;
+  }
+
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 2px;
+    border-radius: 8px;
+    color: #5c65af;
+  }
+
+  button:hover {
+    background-color: #e2e2e2;
+  }
+
+  .button1 {
+    height: 110px;
+  }
+
+  .button2 {
+    width: 105px;
+  }
