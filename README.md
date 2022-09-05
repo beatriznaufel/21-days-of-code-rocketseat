@@ -4,7 +4,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 01: Criar um repositório
 - [x] Dia 02: Criar um Hello World customizado
 - [x] Dia 03: Criar um botão animado
-- [ ] Dia 04: Criar uma calculadora
+- [x] Dia 04: Criar uma calculadora
 - [ ] Dia 05: Desenvolver uma página com erro 404
 - [ ] Dia 06: Criar um card com efeito glassmorphism
 - [ ] Dia 07: Desenvolver um contador
@@ -28,4 +28,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./button/dia-03-screenshot.png">
+</p>
+
+## Dia 03: Calculadora
+
+<p align="center">
+ <img src="./calculator/dia-04-screenshot.png">
 </p>
