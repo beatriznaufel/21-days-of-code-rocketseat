@@ -35,3 +35,9 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 <p align="center">
  <img src="./calculator/dia-04-screenshot.png">
 </p>
+
+## Dia 05: página com erro 404
+
+<p align="center">
+ <img src="./404 error page/error-page-screenshot.png">
+</p>
