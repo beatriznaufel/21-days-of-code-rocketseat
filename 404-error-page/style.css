@@ -2,6 +2,11 @@
   font-family: 'Rubik', sans-serif;
 }
 
+body {
+  background-color: #181824;
+  color: #e6e6e6;
+}
+
 .container {
   height: 200px;
   width: 390px;
@@ -9,7 +14,7 @@
   top: 50%;
   left: 50%;
   margin-top: -100px;
-  margin-left: 50px;
+  margin-left: 60px;
   font-weight: 300;
 }
 
@@ -36,6 +41,7 @@ h2 {
 
 p {
   font-size: 1.2rem;
+  width: 450px;
 }
 
 button {
@@ -56,4 +62,20 @@ span {
 
 button:hover {
   background-color: #D84E5F;
+}
+
+.image {
+	animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
 }
