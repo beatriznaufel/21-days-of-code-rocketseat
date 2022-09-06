@@ -26,17 +26,11 @@ img {
   margin-left: -900px;
 }
 
-h1 {
-  font-size: 8rem;
-  margin: 15px 0px;
-  font-weight: bold;
-  line-height: 46px;
-  margin-bottom: 40px;
-}
-
 h2 {
+  font-size: 2.7rem;
   font-weight: bold;
   padding-top: 8px;
+  margin-bottom: -5px;
 }
 
 p {
