@@ -5,7 +5,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 02: Criar um Hello World customizado
 - [x] Dia 03: Criar um botão animado
 - [x] Dia 04: Criar uma calculadora
-- [ ] Dia 05: Desenvolver uma página com erro 404
+- [x] Dia 05: Desenvolver uma página com erro 404
 - [ ] Dia 06: Criar um card com efeito glassmorphism
 - [ ] Dia 07: Desenvolver um contador
 - [ ] Dia 08: Desenvolver um toggle 
@@ -34,4 +34,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./calculator/dia-04-screenshot.png">
+</p>
+
+## Dia 05: página com erro 404
+
+<p align="center">
+ <img src="./404 error page/error-page-screenshot.png">
 </p>
