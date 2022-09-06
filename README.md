@@ -6,7 +6,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 03: Criar um botão animado
 - [x] Dia 04: Criar uma calculadora
 - [x] Dia 05: Desenvolver uma página com erro 404
-- [ ] Dia 06: Criar um card com efeito glassmorphism
+- [x] Dia 06: Criar um card com efeito glassmorphism
 - [ ] Dia 07: Desenvolver um contador
 - [ ] Dia 08: Desenvolver um toggle 
 - [ ] Dia 09: Criar uma animação de loading
@@ -36,8 +36,14 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
  <img src="./calculator/dia-04-screenshot.png">
 </p>
 
-## Dia 05: página com erro 404
+## Dia 05: Página com erro 404
 
 <p align="center">
  <img src="./404-error-page/error-page-screenshot.png">
+</p>
+
+## Dia 06: Card com efeito glassmorphism 
+
+<p align="center">
+ <img src="./glassmorphism-card/glassmorphism-card-screenshot.png">
 </p>
