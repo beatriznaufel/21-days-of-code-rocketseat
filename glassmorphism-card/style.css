@@ -37,7 +37,6 @@ ul li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-decoration: none;
     color: #fff;
     font-size: 2em;
     border: 1px solid rgba(255, 255, 255, 0.4);
