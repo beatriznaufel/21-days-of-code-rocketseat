@@ -15,14 +15,6 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [ ] Dia 12: Desenvolver uma galeria de fotos
 - [ ] Dia 13: Desenvolver um menu responsivo
 - [ ] Dia 14: Criar um form de quizzes
-- [ ] Dia 15: Desenvolver um e-commerce 
-- [ ] Dia 16: Desenvolver um site com uma API 
-- [ ] Dia 17: Desenvolver um site que capture eventos do teclado
-- [ ] Dia 18: Desenvolver um gerador de senhas 
-- [ ] Dia 19: Desenvolver um site que gere imagens utilizando a APi do unsplash
-- [ ] Dia 20: Desenvolver um site de emoji picker
-- [ ] Dia 21: ...
-
 
 ## Dia 02: "Hello World" customizado
 
