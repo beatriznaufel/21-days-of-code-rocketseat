@@ -7,7 +7,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 04: Criar uma calculadora
 - [x] Dia 05: Desenvolver uma página com erro 404
 - [x] Dia 06: Criar um card com efeito glassmorphism
-- [ ] Dia 07: Desenvolver um contador
+- [x] Dia 07: Desenvolver um contador
 - [ ] Dia 08: Desenvolver um toggle 
 - [ ] Dia 09: Criar uma animação de loading
 - [ ] Dia 10: Utilizar a lib Particle.js 
@@ -15,6 +15,13 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [ ] Dia 12: Desenvolver uma galeria de fotos
 - [ ] Dia 13: Desenvolver um menu responsivo
 - [ ] Dia 14: Criar um form de quizzes
+- [ ] Dia 15: Desenvolver um e-commerce 
+- [ ] Dia 16: Desenvolver um site com uma API 
+- [ ] Dia 17: Desenvolver um site que capture eventos do teclado
+- [ ] Dia 18: Desenvolver um gerador de senhas 
+- [ ] Dia 19: Desenvolver um site que gere imagens utilizando a APi do unsplash
+- [ ] Dia 20: Desenvolver um site de emoji picker
+- [ ] Dia 21: ...
 
 ## Dia 02: "Hello World" customizado
 
@@ -45,4 +52,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./glassmorphism-card/glassmorphism-card-screenshot.png">
+</p>
+
+## Dia 07: Contador
+
+<p align="center">
+ <img src="./timer/timer-screenshot.png">
 </p>
