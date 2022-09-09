@@ -1,0 +1,58 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+body.dark {
+    background-color: black;
+}
+
+#toggle_checkbox {
+    display: none;
+}
+
+label {
+    background-color: #494e53;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+    padding: 5px;
+    height: 56px;
+    width: 116px;
+    position: relative;
+}
+
+.checkbox {
+    opacity: 0;
+    position: absolute;
+}
+
+.checkbox:checked + .label .ball {
+    transform: translateX(4rem);
+}
+
+svg path {
+    fill: rgb(255, 255, 255);
+}
+
+.sun {
+    margin-left: 0.6rem;
+}
+
+.moon {
+    margin-right: 0.6rem;
+}
+
+.ball {
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    position: absolute;
+    left: 0.7rem;
+    border-radius: 50%;
+    transition: transform 0.2s linear;
+}

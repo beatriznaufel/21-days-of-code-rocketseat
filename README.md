@@ -8,7 +8,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 05: Desenvolver uma página com erro 404
 - [x] Dia 06: Criar um card com efeito glassmorphism
 - [x] Dia 07: Desenvolver um contador
-- [ ] Dia 08: Desenvolver um toggle 
+- [x] Dia 08: Desenvolver um toggle 
 - [ ] Dia 09: Criar uma animação de loading
 - [ ] Dia 10: Utilizar a lib Particle.js 
 - [ ] Dia 11: Criar um layout de um form de login
@@ -58,4 +58,13 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./timer/timer-screenshot.png">
+</p>
+
+## Dia 08: Toggle
+
+<p align="center">
+ <img src="./toggle/toggle-light-screenshot.png">
+</p>
+<p align="center">
+ <img src="./toggle/toggle-dark-screenshot.png">
 </p>
