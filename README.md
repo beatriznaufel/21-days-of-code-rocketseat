@@ -65,6 +65,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 <p align="center">
  <img src="./toggle/toggle-light-screenshot.png">
 </p>
+
 <p align="center">
  <img src="./toggle/toggle-dark-screenshot.png">
 </p>
