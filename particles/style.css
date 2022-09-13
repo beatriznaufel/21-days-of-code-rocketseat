@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg, #f86bdf 0%, #7f5dd9 100%);
+}
+
+#particles-js {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 20%;
+    position: absolute;
+    padding: 3rem;
+}
+
+.wrapper,
+.social-icons a,
+.button button {
+    background-color: rgba(255, 255, 255, 0.13);
+    text-align: center;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.img-area .inner-area {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.inner-area img {
+    width: 13rem;
+    height: 13rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 0.6rem;
+}
+
+.wrapper .name {
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    margin: 10px 0 5px 0;
+    margin-bottom: 0.6rem;
+}
+
+.wrapper .about {
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 0.7rem;
+}
+
+.wrapper .social-icons {
+    margin: 15px 0 25px 0;
+}
+
+.social-icons a {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    margin: 0 5px;
+    display: inline-flex;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.social-icons a:hover::before,
+.wrapper .icon:hover::before,
+.button button:hover:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 50%;
+    background: #ecf0f3;
+    box-shadow: inset -3px -3px 7px #ffffff,
+        inset 3px 3px 5px #ceced1;
+}
+
+.button button:hover:before {
+    z-index: -1;
+    border-radius: 5px;
+}
+
+.button button:hover {
+    color: black;
+}
+
+.social-icons a i {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    line-height: 35px;
+    color: white;
+}
+
+button {
+    width: 60%;
+    padding: 0.4rem;
+    border: none;
+    background-color: white;
+    color: white;
+}
+
+.social-icons a:nth-last-child(1) i:hover {
+    color: #ea4c89;
+}
+
+.social-icons a:nth-last-child(2) i:hover {
+    color: #0a66c2;
+}
+
+.social-icons a:nth-last-child(3) i:hover {
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #fff0 !important;
+}

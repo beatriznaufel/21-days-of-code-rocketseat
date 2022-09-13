@@ -10,7 +10,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 07: Desenvolver um contador
 - [x] Dia 08: Desenvolver um toggle 
 - [x] Dia 09: Criar uma animação de loading
-- [ ] Dia 10: Utilizar a lib Particle.js 
+- [x] Dia 10: Utilizar a lib Particle.js 
 - [ ] Dia 11: Criar um layout de um form de login
 - [ ] Dia 12: Desenvolver uma galeria de fotos
 - [ ] Dia 13: Desenvolver um menu responsivo
@@ -75,4 +75,11 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 <p align="center">
  <img src="./loading/loading-animation-screenshot.png">
 </p>
+
+## Dia 10: Particle.js 
+
+<p align="center">
+ <img src="./particles/particles-screenshot.png">
+</p>
+
 
