@@ -108,7 +108,7 @@ button {
     cursor: pointer;
 }
 
-span {
+a {
     display:block;
     margin-top: 20px;
     font-size: 16px;
