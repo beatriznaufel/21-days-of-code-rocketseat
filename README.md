@@ -12,7 +12,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 09: Criar uma animação de loading
 - [x] Dia 10: Utilizar a lib Particle.js 
 - [x] Dia 11: Criar um layout de um form de login
-- [ ] Dia 12: Desenvolver uma galeria de fotos
+- [x] Dia 12: Desenvolver uma galeria de fotos
 - [ ] Dia 13: Desenvolver um menu responsivo
 - [ ] Dia 14: Criar um form de quizzes
 - [ ] Dia 15: Desenvolver um e-commerce 
@@ -88,4 +88,9 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
  <img src="./login-form/login-form-screenshot.png">
 </p>
 
+## Dia 12: Galeria de imagens
+
+<p align="center">
+ <img src="./image-gallery/image-gallery-screenshot.png">
+</p>
 
