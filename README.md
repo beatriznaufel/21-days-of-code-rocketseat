@@ -13,7 +13,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 10: Utilizar a lib Particle.js 
 - [x] Dia 11: Criar um layout de um form de login
 - [x] Dia 12: Desenvolver uma galeria de fotos
-- [ ] Dia 13: Desenvolver um menu responsivo
+- [x] Dia 13: Desenvolver um menu responsivo
 - [ ] Dia 14: Criar um form de quizzes
 - [ ] Dia 15: Desenvolver um e-commerce 
 - [ ] Dia 16: Desenvolver um site com uma API 
@@ -94,3 +94,12 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
  <img src="./image-gallery/image-gallery-screenshot.png">
 </p>
 
+## Dia 12: Menu responsivo
+
+<p align="center">
+ <img src="./responsive-menu/responsive-menu-screenshot.png">
+</p>
+
+<p align="center">
+ <img src="./responsive-menu/responsive-menu-screenshot2.png">
+</p>
