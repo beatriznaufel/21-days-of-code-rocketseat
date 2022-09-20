@@ -94,10 +94,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
  <img src="./image-gallery/image-gallery-screenshot.png">
 </p>
 
-## Dia 12: Menu responsivo
+## Dia 13: Menu responsivo
 
 <p align="center">
- <img src="./responsive-menu/responsive-menu-screenshot.png">
+ <img src="./responsive-menu/responsive-menu-screenshot1.png">
 </p>
 
 <p align="center">
