@@ -14,7 +14,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 11: Criar um layout de um form de login
 - [x] Dia 12: Desenvolver uma galeria de fotos
 - [x] Dia 13: Desenvolver um menu responsivo
-- [ ] Dia 14: Criar um form de quizzes
+- [x] Dia 14: Criar um form de quizzes
 - [ ] Dia 15: Desenvolver um e-commerce 
 - [ ] Dia 16: Desenvolver um site com uma API 
 - [ ] Dia 17: Desenvolver um site que capture eventos do teclado
@@ -102,4 +102,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./responsive-menu/responsive-menu-screenshot2.png">
+</p>
+
+## Dia 14: Form de quizzes
+
+<p align="center">
+ <img src="./quiz-form/quiz-form-screenshot.png">
 </p>
