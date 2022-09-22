@@ -15,7 +15,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 12: Desenvolver uma galeria de fotos
 - [x] Dia 13: Desenvolver um menu responsivo
 - [x] Dia 14: Criar um form de quizzes
-- [ ] Dia 15: Desenvolver um e-commerce 
+- [x] Dia 15: Desenvolver um e-commerce 
 - [ ] Dia 16: Desenvolver um site com uma API 
 - [ ] Dia 17: Desenvolver um site que capture eventos do teclado
 - [ ] Dia 18: Desenvolver um gerador de senhas 
@@ -108,4 +108,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./quiz-form/quiz-form-screenshot.png">
+</p>
+
+## Dia 15: E-commerce
+
+<p align="center">
+ <img src="./e-commerce/e-commerce-screenshot.png">
 </p>
