@@ -16,7 +16,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 13: Desenvolver um menu responsivo
 - [x] Dia 14: Criar um form de quizzes
 - [x] Dia 15: Desenvolver um e-commerce 
-- [ ] Dia 16: Desenvolver um site com uma API 
+- [x] Dia 16: Desenvolver um site com uma API 
 - [ ] Dia 17: Desenvolver um site que capture eventos do teclado
 - [ ] Dia 18: Desenvolver um gerador de senhas 
 - [ ] Dia 19: Desenvolver um site que gere imagens utilizando a APi do unsplash
@@ -114,4 +114,10 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./e-commerce/e-commerce-screenshot.png">
+</p>
+
+## Dia 16: API Pública
+
+<p align="center">
+ <img src="./api-website/api-website.png">
 </p>
