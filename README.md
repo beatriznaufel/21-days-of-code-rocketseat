@@ -119,5 +119,5 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 ## Dia 16: API Pública
 
 <p align="center">
- <img src="./api-website/api-website.png">
+ <img src="./api-website/api-website-screenshot.png">
 </p>
