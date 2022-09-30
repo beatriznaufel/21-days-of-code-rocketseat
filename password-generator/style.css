@@ -56,7 +56,6 @@ input {
     outline: none;
     accent-color: blueviolet;
     border-color: blueviolet;
-    text-decoration: none;
 }
 
 input[type="number"] {
