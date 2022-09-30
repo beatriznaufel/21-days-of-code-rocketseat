@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rebeccapurple;
+}
+
+.wrapper {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    min-width: 400px;
+    border-radius: 3px;
+    background-color: #fff;
+    gap: 5px;
+}
+
+.wrapper h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#result {
+    border: 1px solid blueviolet;
+    border-radius: 3px;
+    outline: none;
+    text-align: center;
+    font-size: 1.6rem;
+    width: 100%;
+    padding: 15px 20px;
+    line-height: 1rem;
+    color: black;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px;
+    width: 100%;
+    margin: 1rem auto;
+}
+
+input {
+    padding: 5px;
+    outline: none;
+    accent-color: blueviolet;
+    border-color: blueviolet;
+    text-decoration: none;
+}
+
+input[type="number"] {
+    width: 70px;
+    height: 38px;
+    text-align: center;
+    border: 1px solid blueviolet;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    outline: none;
+}
+
+input[type="checkbox"] {
+    width: 21px;
+    height: 21px;
+}
+
+label {
+    font-size: 1.3rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 11px 20px;
+    background: #555555;
+    border: none;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+
+.btn-copy {
+    padding: 0px 40px;
+}
+
+.btn:hover {
+    background-color: rgb(128, 38, 211);
+}
