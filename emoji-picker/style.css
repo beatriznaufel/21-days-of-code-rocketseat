@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #191622;
+}
+
+h1 {
+    color: white;
+}
+
+.emoji-container {
+    width: 30%;
+    height: 15rem;
+    border-radius: 1.4rem;
+    margin-top: 1.8rem;
+    margin-bottom: 1.8rem;
+    font-size: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(224, 224, 224);
+}
+
+.btns {
+    width: 20%;
+    padding-inline: 1rem;
+    display: flex;
+    gap: 1.6rem;
+}
+
+.btns button {
+    width: 100%;
+    height: 4rem;
+    font-weight: bold;
+    font-size: 1.3rem;
+    border: none;
+    color: #fff;
+    border-radius: 1.3rem;
+    background-color: #818cf8;
+    transition: 300ms;
+    cursor: pointer;
+}
+
+.btns button:hover {
+    background-color: #7a85eb;
+}
+
+body div.emoji-picker {
+    width: fit-content;
+    height: fit-content;
+}
+
+body div.emoji-picker .emoji-picker__search-container .emoji-picker__search {
+    padding: 0 3rem 0 1rem;
+}
+
+body div.emoji-picker .emoji-picker__content .emoji-picker__emojis {
+    width: calc(2rem * 1.5 * 10);
+    height: 15.5rem;
+}
+
+body div.emoji-picker .emoji-picker__content .emoji-picker__emojis {
+    font-size: 1.5rem;
+}
+
+body div.emoji-picker .emoji-picker__preview {
+    height: 5.5rem;
+}
+
+body div.emoji-picker .emoji-picker__variant-overlay {
+    width: 100%;
+    height: 100%;
+}
