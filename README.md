@@ -20,7 +20,7 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 - [x] Dia 17: Desenvolver um site que capture eventos do teclado
 - [x] Dia 18: Desenvolver um gerador de senhas 
 - [x] Dia 19: Desenvolver um site que gere imagens utilizando a API do unsplash
-- [ ] Dia 20: Desenvolver um site de emoji picker
+- [x] Dia 20: Desenvolver um site de emoji picker
 - [ ] Dia 21: ...
 
 ## Dia 02: "Hello World" customizado
@@ -138,5 +138,11 @@ Repo criado para o desafio de 21 dias de código com a Rocketseat 🚀
 
 <p align="center">
  <img src="./unsplash-images/unsplash-images-screenshot.png">
+</p>
+
+## Dia 20: Site de emoji picke
+
+<p align="center">
+ <img src="./emoji-picker/emoji-picker-screenshot.png">
 </p>
 
